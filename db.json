@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "ean": "CONDICIONARDOR",
+      "ean": "PIACOND200",
       "modified": "2020-11-10",
       "id": 1,
       "name": "Condicionardor Dove 200ML",
@@ -18,7 +18,7 @@
       "created": "2017-08-15"
     },
     {
-      "ean": "REQUEIJAOPIA",
+      "ean": "PIAREQ100",
       "modified": "2020-11-10",
       "id": 2,
       "name": "Requeijão Pia",
@@ -35,10 +35,10 @@
       "created": "2019-10-22"
     },
     {
-      "ean": "CHOCOLATEBATON",
+      "ean": "BATCHOC12",
       "modified": "2020-11-01",
       "id": 3,
-      "name": "Baton",
+      "name": "Baton (12 unidades)",
       "price": 18.95,
       "promotional_price": 15.40,
       "start_promotion": "2020-09-17",
@@ -53,10 +53,10 @@
       "promotion": 1
     },
     {
-      "ean": "PASTILHASBP",
+      "ean": "SBPPAST4",
       "modified": "2020-10-10",
       "id": 4,
-      "name": "Pastilha SBP",
+      "name": "Pastilha SBP (4 unidades)",
       "price": 10.95,
       "promotional_price": 9.40,
       "start_promotion": "2020-10-17",
@@ -71,10 +71,10 @@
       "promotion": 1
     },
     {
-      "ean": "IOGURTEPIA",
+      "ean": "PIAIOGU250",
       "modified": "2020-11-14",
       "id": 5,
-      "name": "Iogurte Pia",
+      "name": "Iogurte 250ml Pia",
       "price": 20.95,
       "promotional_price": 18.40,
       "start_promotion": "2020-08-17",
